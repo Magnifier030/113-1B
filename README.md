@@ -1,6 +1,6 @@
 # Docx to Json (Input for Abstact of Test command & Pass Criteria Module)
 
-本次專案為將 Test Plan 轉成  json 的轉換工具
+以下是我其他專案為將 Test Plan 轉成  json 的轉換工具中寫的說明文件.md
 
 ## 文件說明
 * **main.ipynb**
