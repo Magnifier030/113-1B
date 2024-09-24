@@ -89,8 +89,7 @@ convert_to_dataset(file_name)
 
 <br>
 然後輸入 <code>Python main.py</code> 來抓取此檔案的文字位置
-
-<img src="https://scontent.fkhh1-1.fna.fbcdn.net/v/t39.30808-6/345191755_656432502961940_1909636103084342204_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=HcfY8njQQUYQ7kNvgEsBLlV&_nc_ht=scontent.fkhh1-1.fna&oh=00_AYBvbtwDXlOJlTT-fuJILrG03iDPnNc2TIH0p4eOf4H9jQ&oe=66F84359">
 最後輸出 "{文檔名稱}/datasets.json"
 
 </div>
+<img src="https://scontent.fkhh1-1.fna.fbcdn.net/v/t39.30808-6/345191755_656432502961940_1909636103084342204_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=HcfY8njQQUYQ7kNvgEsBLlV&_nc_ht=scontent.fkhh1-1.fna&oh=00_AYBvbtwDXlOJlTT-fuJILrG03iDPnNc2TIH0p4eOf4H9jQ&oe=66F84359">
