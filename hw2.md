@@ -37,7 +37,7 @@ graph TD
 > 將任務表轉換成時間甘特圖
 ``` mermaid
 gantt
-    title 專案計劃
+    title 任務甘特圖
     dateFormat  YYYY-MM-DD
     section 任務
     研擬任務          :         des1, 2024-11-01, 1d
